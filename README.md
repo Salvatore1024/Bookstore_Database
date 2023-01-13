@@ -26,7 +26,7 @@ into the database and displayed is based on 4 main selectors: ID-Title-Author-Qu
 To run and use this program is necessary to install a recent version of Python that can be found at https://www.python.org/downloads/.
 
 ## 5. Usage:
-Open and run the file ebookstore.py. Follow the instructions displayed on the console and navigate through the menu to discover all the possible options. 
+Copy and run the code contained inside the file ebookstore.py on your terminal or IDE. Follow the instructions displayed on the console and navigate through the menu to discover all the possible options. 
 In case of an empty database, the program will repopulate it with sample records.<br>
 Following you can find a screenshot that shows how the program should run:<br><br>
 ![Program example](https://raw.githubusercontent.com/Salvatore1024/finalCapstone/main/screenshot.png)
