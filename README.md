@@ -1,4 +1,4 @@
-# ===== PROJECT SYLLABUS =====
+# 📚📚📚 PROJECT SYLLABUS 📚📚📚
 **1. Project name**
 
 **2. Description**
